@@ -1,0 +1,650 @@
+[
+  {
+    "displayName": "default",
+    "username": "default",
+    "userID": "default",
+    "mmr": 0,
+    "dotabuff": "default",
+    "status": "default"
+  },
+  {
+    "displayName": "joeyd5",
+    "username": "joeyd5",
+    "userID": "144637502",
+    "mmr": 2100,
+    "dotabuff": "https://www.dotabuff.com/players/461084598",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "nuridian",
+    "username": "nuridian",
+    "userID": "90229057",
+    "mmr": 4408,
+    "dotabuff": "https://www.dotabuff.com/players/72087771",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Tokamak_Fanboy",
+    "username": "tokamak_fanboy",
+    "userID": "39049331",
+    "mmr": 5588,
+    "dotabuff": "https://www.dotabuff.com/players/33153117",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Anthony_Montano",
+    "username": "anthony_montano",
+    "userID": "48911433",
+    "mmr": 4544,
+    "dotabuff": "https://www.dotabuff.com/players/89693438",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "TomHeisenberg",
+    "username": "tomheisenberg",
+    "userID": "79409732",
+    "mmr": 3914,
+    "dotabuff": "https://www.dotabuff.com/players/124618512",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Nightcrawler13025",
+    "username": "nightcrawler13025",
+    "userID": "54571219",
+    "mmr": 4653,
+    "dotabuff": "https://www.dotabuff.com/players/84161892",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Remster_",
+    "username": "remster_",
+    "userID": "122242571",
+    "mmr": 4076,
+    "dotabuff": "https://www.dotabuff.com/players/229272845",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Linkenten",
+    "username": "linkenten",
+    "userID": "40877587",
+    "mmr": 4834,
+    "dotabuff": "https://www.dotabuff.com/players/186283962",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "fatezzz",
+    "username": "fatezzz",
+    "userID": "42710444",
+    "mmr": 5100,
+    "dotabuff": "https://www.dotabuff.com/players/122355886",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Nymuuu",
+    "username": "nymuuu",
+    "userID": "94064892",
+    "mmr": 1800,
+    "dotabuff": "https://www.dotabuff.com/players/310669009",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "FreezeDotA",
+    "username": "freezedota",
+    "userID": "36548435",
+    "mmr": 2552,
+    "dotabuff": "https://www.dotabuff.com/players/53398150",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Deanocide",
+    "username": "deanocide",
+    "userID": "173624405",
+    "mmr": 5456,
+    "dotabuff": "https://www.dotabuff.com/players/359753316",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "blackmagician95",
+    "username": "blackmagician95",
+    "userID": "42874581",
+    "mmr": 3000,
+    "dotabuff": "https://www.dotabuff.com/players/49993139",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "SupremeDotes",
+    "username": "supremedotes",
+    "userID": "215259734",
+    "mmr": 4986,
+    "dotabuff": "https://www.dotabuff.com/players/214272242",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Mraiochalmers\\s",
+    "username": "mraiochalmers",
+    "userID": "92579246",
+    "mmr": 4000,
+    "dotabuff": "https://www.dotabuff.com/players/108994455",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "remidial",
+    "username": "remidial",
+    "userID": "44696062",
+    "mmr": 3881,
+    "dotabuff": "https://www.dotabuff.com/players/126170024",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "puni2012",
+    "username": "puni2012",
+    "userID": "37600968",
+    "mmr": 3867,
+    "dotabuff": "https://www.dotabuff.com/players/335401747",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "withershins14",
+    "username": "withershins14",
+    "userID": "63519665",
+    "mmr": 3524,
+    "dotabuff": "https://www.dotabuff.com/players/181040281",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Icyylol",
+    "username": "icyylol",
+    "userID": "23851591",
+    "mmr": 3500,
+    "dotabuff": "https://www.dotabuff.com/players/305857816",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Sickmonkey3",
+    "username": "sickmonkey3",
+    "userID": "47452403",
+    "mmr": 1987,
+    "dotabuff": "https://www.dotabuff.com/players/209907959/",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "boelens",
+    "username": "boelens",
+    "userID": "21347322",
+    "mmr": 5400,
+    "dotabuff": "https://www.dotabuff.com/players/44742734",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "patroneee",
+    "username": "patroneee",
+    "userID": "44852531",
+    "mmr": 3955,
+    "dotabuff": "https://www.dotabuff.com/players/108722877",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "rkryptic",
+    "username": "rkryptic",
+    "userID": "50505186",
+    "mmr": 4615,
+    "dotabuff": "https://www.dotabuff.com/players/43070711",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "jah827",
+    "username": "jah827",
+    "userID": "121571216",
+    "mmr": 4600,
+    "dotabuff": "https://www.dotabuff.com/players/303331256",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "GaryWong",
+    "username": "garywong",
+    "userID": "35903737",
+    "mmr": 3876,
+    "dotabuff": "https://www.dotabuff.com/players/132533663",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "cynicuLL",
+    "username": "cynicull",
+    "userID": "141124682",
+    "mmr": 4125,
+    "dotabuff": "https://www.dotabuff.com/players/158626280",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "ItssBiggums",
+    "username": "itssbiggums",
+    "userID": "66064139",
+    "mmr": 3414,
+    "dotabuff": "https://www.dotabuff.com/players/173812294",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Realmike33",
+    "username": "realmike33",
+    "userID": "57294111",
+    "mmr": 2000,
+    "dotabuff": "https://www.dotabuff.com/players/408008877",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "xdwayoflife",
+    "username": "xdwayoflife",
+    "userID": "147671496",
+    "mmr": 4700,
+    "dotabuff": "https://www.dotabuff.com/players/384326349",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "LILGUCCITAYK",
+    "username": "lilguccitayk",
+    "userID": "62915665",
+    "mmr": 5300,
+    "dotabuff": "https://www.dotabuff.com/players/97652111",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "WhiteshooZ",
+    "username": "whiteshooz",
+    "userID": "38051162",
+    "mmr": 2300,
+    "dotabuff": "https://www.dotabuff.com/players/118726343",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "starsdota",
+    "username": "starsdota",
+    "userID": "136689435",
+    "mmr": 6300,
+    "dotabuff": "https://www.dotabuff.com/players/396380214",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "mkfilski",
+    "username": "mkfilski",
+    "userID": "111939365",
+    "mmr": 4300,
+    "dotabuff": "https://www.dotabuff.com/players/110962575",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "SelfishAntagonist",
+    "username": "selfishantagonist",
+    "userID": "171030106",
+    "mmr": 4900,
+    "dotabuff": "https://www.dotabuff.com/players/34470384",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "AmberDan",
+    "username": "amberdan",
+    "userID": "164727277",
+    "mmr": 2600,
+    "dotabuff": "https://www.dotabuff.com/players/192208378",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "CryinBMW",
+    "username": "cryinbmw",
+    "userID": "32292530",
+    "mmr": 3100,
+    "dotabuff": "https://www.dotabuff.com/players/110956472",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "GrechiM",
+    "username": "grechim",
+    "userID": "84559159",
+    "mmr": 3940,
+    "dotabuff": "https://www.dotabuff.com/players/98607088",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "montydotoz",
+    "username": "montydotoz",
+    "userID": "116274755",
+    "mmr": 5692,
+    "dotabuff": "https://www.dotabuff.com/players/125046040",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "burrahobbit21594",
+    "username": "burrahobbit21594",
+    "userID": "57244536",
+    "mmr": 4847,
+    "dotabuff": "https://www.dotabuff.com/players/75632156",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "AidanNaut",
+    "username": "aidannaut",
+    "userID": "23594560",
+    "mmr": 4600,
+    "dotabuff": "https://www.dotabuff.com/players/46414091",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "ascension_dota",
+    "username": "ascension_dota",
+    "userID": "133313300",
+    "mmr": 2310,
+    "dotabuff": "https://www.dotabuff.com/players/52067805",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "AspireBlades",
+    "username": "aspireblades",
+    "userID": "48481115",
+    "mmr": 3635,
+    "dotabuff": "https://www.dotabuff.com/players/156291461",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "DaDaarkDraagaan",
+    "username": "dadaarkdraagaan",
+    "userID": "183573345",
+    "mmr": 5450,
+    "dotabuff": "https://www.dotabuff.com/players/451589360",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Dannx18",
+    "username": "dannx18",
+    "userID": "41695925",
+    "mmr": 3192,
+    "dotabuff": "https://www.dotabuff.com/players/140691806",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Optic_pwn",
+    "username": "optic_pwn",
+    "userID": "101992027",
+    "mmr": 2000,
+    "dotabuff": "https://www.dotabuff.com/players/26390111",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Memory2Rest",
+    "username": "memory2rest",
+    "userID": "72445736",
+    "mmr": 4094,
+    "dotabuff": "https://www.dotabuff.com/players/111431310",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "aBSJsubscriber",
+    "username": "absjsubscriber",
+    "userID": "69454604",
+    "mmr": 700,
+    "dotabuff": "https://www.dotabuff.com/players/113295809",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Dodar_",
+    "username": "dodar_",
+    "userID": "30451905",
+    "mmr": 3267,
+    "dotabuff": "https://www.dotabuff.com/players/143887628",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "fwizzletv",
+    "username": "fwizzletv",
+    "userID": "167717645",
+    "mmr": 4700,
+    "dotabuff": "https://www.dotabuff.com/players/234093197",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "noahVanRensselaer",
+    "username": "noahvanrensselaer",
+    "userID": "229738283",
+    "mmr": 2800,
+    "dotabuff": "https://www.dotabuff.com/players/171218382",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "cooked1",
+    "username": "cooked1",
+    "userID": "76961464",
+    "mmr": 936,
+    "dotabuff": "https://www.dotabuff.com/players/282609064",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Pye_D",
+    "username": "pye_d",
+    "userID": "119325472",
+    "mmr": 4900,
+    "dotabuff": "https://www.dotabuff.com/players/134343114",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "ATallStalker",
+    "username": "atallstalker",
+    "userID": "105828833",
+    "mmr": 1750,
+    "dotabuff": "https://www.dotabuff.com/players/145879116",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "unknown_shoulder",
+    "username": "unknown_shoulder",
+    "userID": "99621399",
+    "mmr": 2000,
+    "dotabuff": "https://www.dotabuff.com/players/171471387",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "fullmetaltroopa",
+    "username": "fullmetaltroopa",
+    "userID": "80885132",
+    "mmr": 4900,
+    "dotabuff": "https://www.dotabuff.com/players/80143632",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "dark_knightoo",
+    "username": "dark_knightoo",
+    "userID": "62526674",
+    "mmr": 5500,
+    "dotabuff": "https://www.dotabuff.com/players/86768336",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "gabrielmeepo",
+    "username": "gabrielmeepo",
+    "userID": "185757118",
+    "mmr": 2035,
+    "dotabuff": "https://www.dotabuff.com/players/382561439",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Faligget",
+    "username": "faligget",
+    "userID": "24748659",
+    "mmr": 2100,
+    "dotabuff": "https://www.dotabuff.com/players/163169956",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "limelimelimelime",
+    "username": "limelimelimelime",
+    "userID": "38188228",
+    "mmr": 3500,
+    "dotabuff": "https://www.dotabuff.com/players/69936872",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "DeLaKass",
+    "username": "delakass",
+    "userID": "50916625",
+    "mmr": 2000,
+    "dotabuff": "https://www.dotabuff.com/players/88852599",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "aegisstolen",
+    "username": "aegisstolen",
+    "userID": "218929990",
+    "mmr": 4000,
+    "dotabuff": "https://www.dotabuff.com/players/34125751",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "foolofatook1",
+    "username": "foolofatook1",
+    "userID": "38812935",
+    "mmr": 5400,
+    "dotabuff": "https://www.dotabuff.com/players/147102479",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "bertmanyo",
+    "username": "bertmanyo",
+    "userID": "51901559",
+    "mmr": 3632,
+    "dotabuff": "https://www.dotabuff.com/players/80916860",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "zeTurk",
+    "username": "zeturk",
+    "userID": "125811674",
+    "mmr": 6500,
+    "dotabuff": "https://www.dotabuff.com/players/179648045",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "1paradis",
+    "username": "1paradis",
+    "userID": "146679740",
+    "mmr": 937,
+    "dotabuff": "https://www.dotabuff.com/players/119420973",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Spideyelectro",
+    "username": "spideyelectro",
+    "userID": "79845542",
+    "mmr": 3596,
+    "dotabuff": "https://www.dotabuff.com/players/298148498",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Broxy_TV",
+    "username": "broxy_tv",
+    "userID": "58832908",
+    "mmr": 5188,
+    "dotabuff": "https://www.dotabuff.com/players/341196930",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Scaarta",
+    "username": "scaarta",
+    "userID": "78737970",
+    "mmr": 2888,
+    "dotabuff": "https://www.dotabuff.com/players/315565291",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Der3kDawg",
+    "username": "der3kdawg",
+    "userID": "21386540",
+    "mmr": 4600,
+    "dotabuff": "https://www.dotabuff.com/players/16629184",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "TonyZeSniper",
+    "username": "tonyzesniper",
+    "userID": "84354685",
+    "mmr": 3180,
+    "dotabuff": "https://www.dotabuff.com/players/37763432",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "rime_",
+    "username": "rime_",
+    "userID": "31316242",
+    "mmr": 6829,
+    "dotabuff": "https://www.dotabuff.com/players/69256187",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "numbscole",
+    "username": "numbscole",
+    "userID": "66942417",
+    "mmr": 3890,
+    "dotabuff": "https://www.dotabuff.com/players/163426519",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "gg_juniper",
+    "username": "gg_juniper",
+    "userID": "114832509",
+    "mmr": 1416,
+    "dotabuff": "https://www.dotabuff.com/players/258325703",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "snackcs",
+    "username": "snackcs",
+    "userID": "96606249",
+    "mmr": 3302,
+    "dotabuff": "https://www.dotabuff.com/players/81917896",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "sheephtee",
+    "username": "sheephtee",
+    "userID": "28604379",
+    "mmr": 3800,
+    "dotabuff": "https://www.dotabuff.com/players/171566175",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "chinya111",
+    "username": "chinya111",
+    "userID": "123177488",
+    "mmr": 3000,
+    "dotabuff": "https://www.dotabuff.com/players/194784722",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "GovernmentMyAss",
+    "username": "governmentmyass",
+    "userID": "80658070",
+    "mmr": 3900,
+    "dotabuff": "https://www.dotabuff.com/players/83503076",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "Bluemurakumo",
+    "username": "bluemurakumo",
+    "userID": "68287608",
+    "mmr": 1200,
+    "dotabuff": "https://www.dotabuff.com/players/154812753",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "sajooka",
+    "username": "sajooka",
+    "userID": "109825830",
+    "mmr": 2889,
+    "dotabuff": "https://www.dotabuff.com/players/381441444",
+    "status": "signed-up"
+  },
+  {
+    "displayName": "ThatGuyTHood",
+    "username": "thatguythood",
+    "userID": "102082426",
+    "mmr": 2000,
+    "dotabuff": "https://www.dotabuff.com/players/443213606",
+    "status": "signed-up"
+  }
+]
